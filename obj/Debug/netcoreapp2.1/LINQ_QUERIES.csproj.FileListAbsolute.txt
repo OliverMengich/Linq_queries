@@ -1,0 +1,11 @@
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\LINQ_QUERIES\bin\Debug\netcoreapp2.1\LINQ_QUERIES.deps.json
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\LINQ_QUERIES\bin\Debug\netcoreapp2.1\LINQ_QUERIES.runtimeconfig.json
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\LINQ_QUERIES\bin\Debug\netcoreapp2.1\LINQ_QUERIES.runtimeconfig.dev.json
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\LINQ_QUERIES\bin\Debug\netcoreapp2.1\LINQ_QUERIES.dll
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\LINQ_QUERIES\bin\Debug\netcoreapp2.1\LINQ_QUERIES.pdb
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\LINQ_QUERIES\obj\Debug\netcoreapp2.1\LINQ_QUERIES.csprojAssemblyReference.cache
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\LINQ_QUERIES\obj\Debug\netcoreapp2.1\LINQ_QUERIES.csproj.CoreCompileInputs.cache
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\LINQ_QUERIES\obj\Debug\netcoreapp2.1\LINQ_QUERIES.AssemblyInfoInputs.cache
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\LINQ_QUERIES\obj\Debug\netcoreapp2.1\LINQ_QUERIES.AssemblyInfo.cs
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\LINQ_QUERIES\obj\Debug\netcoreapp2.1\LINQ_QUERIES.dll
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\LINQ_QUERIES\obj\Debug\netcoreapp2.1\LINQ_QUERIES.pdb
